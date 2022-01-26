@@ -16,9 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 public class Server extends SpringBootServletInitializer {
 
-    /**
-     *
-     */
+
     public static void main(String[] args) {
         SpringApplication.run(Server.class, args);
     }
